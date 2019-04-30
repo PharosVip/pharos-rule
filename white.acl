@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,soulapp.cn,DIRECT
 
 # taobao
 DOMAIN-KEYWORD,taobao,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+
 
 # Bilibili
 USER-AGENT,*bili*,DIRECT
