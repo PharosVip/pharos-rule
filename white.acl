@@ -20,6 +20,14 @@ DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SUFFIX,zhibo8.cc,DIRECT
 DOMAIN-SUFFIX,qiumibao.com,DIRECT
 
+#meituan
+DOMAIN-SUFFIX,meituan.com,DIRECT
+
+#e le me
+DOMAIN-SUFFIX,elemecdn.com,DIRECT
+DOMAIN-SUFFIX,umdc.aliapp.org,DIRECT
+DOMAIN-SUFFIX,ut.taobao.com,DIRECT
+
 
 #hupu
 DOMAIN-SUFFIX,hupo.com,DIRECT
