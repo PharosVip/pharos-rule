@@ -1,6 +1,6 @@
-#bypass wechat
 
 [Rule]
+#bypass wechat
 DOMAIN-SUFFIX,030buy.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
 DOMAIN-SUFFIX,1-apple.com.tw,PROXY
